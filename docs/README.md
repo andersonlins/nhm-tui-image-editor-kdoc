@@ -1,4 +1,4 @@
-x-salada## Tutorials
+## Tutorials
 - [Getting Started](Basic-Tutorial.md)
 - [Understand the structure](Structure.md)
 - [Simple Reference](Reference.md)
